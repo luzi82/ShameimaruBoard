@@ -1,6 +1,5 @@
 package com.luzi82.shameimaruboard.desktop;
 
-import java.util.Collection;
 import java.util.Collections;
 import java.util.LinkedList;
 
